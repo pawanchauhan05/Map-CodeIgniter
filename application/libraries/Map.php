@@ -112,7 +112,7 @@ class Map {
          * to get organization
          * @return type
          */
-        public function organization() {
+        public function get_organization() {
            return $this->map->org; 
         }
 
