@@ -10,8 +10,8 @@
  * @package CodeIgniter
  * @category Libraries
  * @author Pawan Singh Chauhan <pawansinghchouhan05@gmail.com>
- * @license http://URL name
- * @link URL description
+ * @license MIT
+ * @link https://github.com/pawanchauhan05/Map-CodeIgniter
  * @version 3.1.2
  */
 
